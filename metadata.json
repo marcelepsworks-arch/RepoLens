@@ -1,0 +1,5 @@
+{
+  "name": "RepoLens",
+  "description": "An intelligent GitHub repository analyzer powered by Gemini 3 Pro and Google Search Grounding.",
+  "requestFramePermissions": []
+}
